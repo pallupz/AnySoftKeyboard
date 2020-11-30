@@ -9,9 +9,9 @@
              ask:longPressCode="@integer/key_code_cancel"
              android:keyEdgeFlags="left"/>
         <Key ask:isFunctional="true" android:codes="@integer/key_code_quick_text" ask:longPressCode="@integer/key_code_quick_text_popup"/>
-        <Key ask:isFunctional="true" android:codes="44" android:popupCharacters=";:-'"/>
+        <Key ask:isFunctional="true" android:codes="44" android:popupCharacters=",:-'"/>
         <Key android:keyWidth="45%p" android:codes="@integer/key_code_space"/>
-        <Key ask:isFunctional="true" android:codes="." android:popupCharacters="\?!&amp;¡¿⸮‽"/>
+        <Key ask:isFunctional="true" android:codes="." android:popupCharacters="\?,&amp;!"/>
         <Key android:keyWidth="15%p" ask:isFunctional="true" android:codes="@integer/key_code_enter"
              ask:longPressCode="@integer/key_code_settings" android:keyEdgeFlags="right"/>
     </Row>
@@ -21,9 +21,9 @@
              ask:longPressCode="@integer/key_code_cancel"
              android:keyEdgeFlags="left"/>
         <Key ask:isFunctional="true" android:codes="@integer/key_code_quick_text" ask:longPressCode="@integer/key_code_quick_text_popup"/>
-        <Key ask:isFunctional="true" android:codes="44" android:popupCharacters=";:-'"/>
+        <Key ask:isFunctional="true" android:codes="44" android:popupCharacters=",:-'"/>
         <Key android:keyWidth="45%p" android:codes="@integer/key_code_space"/>
-        <Key ask:isFunctional="true" android:codes="." android:popupCharacters="\?!&amp;¡¿⸮‽"/>
+        <Key ask:isFunctional="true" android:codes="." android:popupCharacters="\?,&amp;!"/>
         <Key android:keyWidth="15%p" ask:isFunctional="true" android:codes="@integer/key_code_enter"
              ask:longPressCode="@integer/key_code_settings" android:keyEdgeFlags="right"/>
     </Row>
@@ -37,7 +37,7 @@
         <Key ask:isFunctional="true" android:codes="/" android:popupCharacters="~_+=$%&amp;\@"/>
         <Key android:keyWidth="25%p" android:codes="@integer/key_code_space"/>
         <Key ask:isFunctional="true" android:codes="@integer/key_code_domain"/>
-        <Key ask:isFunctional="true" android:codes="." android:popupCharacters="\?!&amp;¡¿⸮‽"/>
+        <Key ask:isFunctional="true" android:codes="." android:popupCharacters="\?,&amp;!"/>
         <Key android:keyWidth="15%p" ask:isFunctional="true" android:codes="@integer/key_code_enter"
              ask:longPressCode="@integer/key_code_settings" android:keyEdgeFlags="right"/>
     </Row>
@@ -47,11 +47,11 @@
              ask:longPressCode="@integer/key_code_cancel"
              android:keyEdgeFlags="left"/>
         <Key ask:isFunctional="true" android:codes="@integer/key_code_quick_text" ask:longPressCode="@integer/key_code_quick_text_popup"/>
-        <Key ask:isFunctional="true" android:codes="44" android:popupCharacters=";:-'"/>
+        <Key ask:isFunctional="true" android:codes="44" android:popupCharacters=",:-'"/>
         <Key ask:isFunctional="true" android:codes="\@" android:popupCharacters="~_+=$%&amp;"/>
         <Key android:keyWidth="25%p" android:codes="@integer/key_code_space"/>
         <Key ask:isFunctional="true" android:codes="@integer/key_code_domain"/>
-        <Key ask:isFunctional="true" android:codes="." android:popupCharacters="\?!&amp;¡¿⸮‽"/>
+        <Key ask:isFunctional="true" android:codes="." android:popupCharacters="\?,&amp;!"/>
         <Key android:keyWidth="15%p" ask:isFunctional="true" android:codes="@integer/key_code_enter"
              ask:longPressCode="@integer/key_code_settings" android:keyEdgeFlags="right"/>
     </Row>
@@ -61,9 +61,9 @@
             ask:longPressCode="@integer/key_code_cancel"
             android:keyEdgeFlags="left"/>
         <Key ask:isFunctional="true" android:codes="@integer/key_code_quick_text" ask:longPressCode="@integer/key_code_quick_text_popup"/>
-        <Key ask:isFunctional="true" android:codes="44" android:popupCharacters=";:-'"/>
+        <Key ask:isFunctional="true" android:codes="44" android:popupCharacters=",:-'"/>
         <Key android:keyWidth="45%p" android:codes="@integer/key_code_space"/>
-        <Key ask:isFunctional="true" android:codes="." android:popupCharacters="\?!&amp;¡¿⸮‽"/>
+        <Key ask:isFunctional="true" android:codes="." android:popupCharacters="\?,&amp;!"/>
         <Key android:keyWidth="15%p" ask:isFunctional="true" android:codes="@integer/key_code_enter"
             ask:longPressCode="@integer/key_code_settings" android:keyEdgeFlags="right"/>
     </Row>
